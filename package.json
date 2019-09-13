@@ -1,10 +1,10 @@
 {
     "name": "mangoapp",
-    "version": "1.0.0.",
+    "version": "1.0.0",
     "description": "node app",
     "main": "app.js",
     "scripts": {
-        "start": "node app.js"
+        "web": "node app.js"
     },
     "repository": {
         "type": "git",
